@@ -181,3 +181,11 @@ If the page is still under construction, it is a good idea to password protect i
 6. Volume Type must be `Cloudinary`
 7. Now fill in the Cloudinary credentials
 8. Go to the Assets and upload the first image
+
+
+
+
+
+
+
+https://heroku.com/deploy?template=https://github.com/netotaku/vrl/tree/master
